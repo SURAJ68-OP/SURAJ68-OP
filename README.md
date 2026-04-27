@@ -1,4 +1,5 @@
 # 💫 About Me:
+
 A driven Computer Science undergraduate at UVCE with a foundational Diploma in the field. My academic journey is centered on transforming a deep passion for technology and analytical problem-solving into a career as a proficient Software Engineer.<br>I am committed to continuous learning, actively staying current with industry advancements and exploring diverse domains of software development. I am a highly adaptable and motivated individual, eager to apply my skills to real-world challenges and contribute to an innovative engineering team. Actively seeking internship and full-time opportunities in software engineering.
 
 
